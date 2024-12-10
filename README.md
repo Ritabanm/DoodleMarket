@@ -1,7 +1,3 @@
-Here’s a rewritten version of the documentation for your React application, making it more concise, modern, and tailored to your specific project:
-
----
-
 # **Doodle Market - React Application**
 
 Doodle Market is a React-based e-commerce platform for buying and selling creative drawings using fake currency. The project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
