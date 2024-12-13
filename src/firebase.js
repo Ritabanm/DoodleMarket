@@ -7,13 +7,7 @@ import { getAuth,GoogleAuthProvider } from "firebase/auth";
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyDwzfYOXra2QfdBPU_u8M8Ibkzq1tfa0eY",
-  authDomain: "doodle-market.firebaseapp.com",
-  projectId: "doodle-market",
-  storageBucket: "doodle-market.firebasestorage.app",
-  messagingSenderId: "159269161089",
-  appId: "1:159269161089:web:c47bec764fe315d4f3e580",
-  measurementId: "G-GS3Y7RL0F7"
+//Use your own firebase creds from console.
 };
 
 // Initialize Firebase
