@@ -4,6 +4,7 @@ import AppBar from '@mui/material/AppBar';
 import Toolbar from '@mui/material/Toolbar';
 import Typography from '@mui/material/Typography';
 import Button from '@mui/material/Button';
+import '../App.css';
 
 function Navbar() {
     return (
@@ -14,7 +15,7 @@ function Navbar() {
                 </Typography>
                 <Button color="inherit" component={Link} to="/">Home</Button>
                 <Button color="inherit" component={Link} to="/login">Login</Button>
-                <Button color="inherit" component={Link} to="/register">Register</Button>
+                <Button color="inherit" component={Link} to="/register">Sign Up</Button>
             </Toolbar>
         </AppBar>
     );
